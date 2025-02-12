@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as webDeveloper at 
-- 🌱 I’m currently learning Angular.js With ASP.NET Core
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working as Software Developer 
+- 🌱 I’m currently learning Angular.js With ASP.NET Core 6+
 - 📫 How to reach me: => yogeshgamit178@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: yoGi
 - ⚡ Fun fact: Exceptional Nerd
 -->
